@@ -58,4 +58,4 @@ Hi there, I'm Clément 👋
 ---
 
 ## 🌱 I’m looking for...
-* Focus: Cyberdefense/Cybersecuriy or Full-Stack/Backend Development.
+* Focus: Cyberdefense/Cybersecurity or Full-Stack/Backend Development.
