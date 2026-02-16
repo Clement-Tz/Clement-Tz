@@ -12,14 +12,20 @@ Hi there, I'm Clément 👋
 ---
 
 ## 🔭 I’m currently working on...
+### **☕ Yakamon - API Backend** - *EPITA*
+*Backend implementation for a creature-collecting RPG (Pokémon-like)*
+* **Features:** RESTful API development adhering to OpenAPI/Swagger specs, strict Layered Architecture (Presentation, Business, Data), and game logic (Movement, Inventory, Evolution).
+* **Stack:** Java, Quarkus, Hibernate ORM, PostgreSQL, Docker.
+
+---
+
+## 📂 Featured Projects
+## 🔭 I’m currently working on...
 ### **☕ Java Workshop** - *EPITA*
 *Object-Oriented Programming workshop.*
 * **Features:** Mastery of Inheritance and Polymorphism (Interfaces), JSON serialization/deserialization, task scheduling, and HTTP API interaction.
 * **Stack:** Java, JSON.
 
----
-
-## 📂 Featured Projects
 ### **🐚 42sh - Unix Shell** - *EPITA*
 *Implementation of a POSIX-compliant Shell from scratch in C.*
 * **Features:** AST parsing engine (Lexer/Parser), process management (fork/exec), pipe/redirections handling, and custom memory management.
