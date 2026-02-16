@@ -12,7 +12,7 @@ Hi there, I'm Clément 👋
 ---
 
 ## 🔭 I’m currently working on...
-### **☕ Yakamon - API Backend** - *EPITA*
+### **🦖 Yakamon - API Backend** - *EPITA*
 *Backend implementation for a creature-collecting RPG (Pokémon-like)*
 * **Features:** RESTful API development adhering to OpenAPI/Swagger specs, strict Layered Architecture (Presentation, Business, Data), and game logic (Movement, Inventory, Evolution).
 * **Stack:** Java, Quarkus, Hibernate ORM, PostgreSQL, Docker.
