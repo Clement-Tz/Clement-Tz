@@ -20,7 +20,6 @@ Hi there, I'm Clément 👋
 ---
 
 ## 📂 Featured Projects
-## 🔭 I’m currently working on...
 ### **☕ Java Workshop** - *EPITA*
 *Object-Oriented Programming workshop.*
 * **Features:** Mastery of Inheritance and Polymorphism (Interfaces), JSON serialization/deserialization, task scheduling, and HTTP API interaction.
