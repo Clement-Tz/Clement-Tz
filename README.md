@@ -12,7 +12,7 @@ Hi there, I'm Clément 👋
 ---
 
 ## 🔭 I’m currently working on...
-### **🦖 Yakamon - API Backend** - *EPITA*
+### **🦖 Yakamon - API Backend** - *EPITA, 2026*
 *Backend implementation for a creature-collecting RPG (Pokémon-like)*
 * **Features:** RESTful API development adhering to OpenAPI/Swagger specs, strict Layered Architecture (Presentation, Business, Data), and game logic (Movement, Inventory, Evolution).
 * **Stack:** Java, Quarkus, Hibernate ORM, PostgreSQL, Docker.
@@ -20,42 +20,42 @@ Hi there, I'm Clément 👋
 ---
 
 ## 📂 Featured Projects
-### **☕ Java Workshop** - *EPITA*
+### **☕ Java Workshop** - *EPITA, 2026*
 *Object-Oriented Programming workshop.*
 * **Features:** Mastery of Inheritance and Polymorphism (Interfaces), JSON serialization/deserialization, task scheduling, and HTTP API interaction.
 * **Stack:** Java, JSON.
 
-### **🐚 42sh - Unix Shell** - *EPITA*
+### **🐚 42sh - Unix Shell** - *EPITA, 2026*
 *Implementation of a POSIX-compliant Shell from scratch in C.*
 * **Features:** AST parsing engine (Lexer/Parser), process management (fork/exec), pipe/redirections handling, and custom memory management.
 * **Stack:** Advanced C, System Programming, Unix Signals.
 
 
-### **📖 SQL Workshop** - *EPITA*
+### **📖 SQL Workshop** - *EPITA, 2025*
 *Advanced Database management and modeling.*
 * **Features:** Relational database modeling (UML/ER), and execution of complex queries (JOINs, Subqueries, Aggregations).
 * **Stack:** SQL, PostgreSQL/MySQL.
 
 
-### **🖥️ C/UNIX Workshop (Piscine)** - *EPITA*
+### **🖥️ C/UNIX Workshop (Piscine)** - *EPITA, 2025*
 *Intensive programming workshop focused on low-level programming.*
 * **Features:** Re-implementation of standard library functions (libc), memory allocation management (malloc/free), and complex data structures (Linked lists, Trees).
 * **Stack:** C, Makefile, Shell Scripting, Valgrind.
 
 
-### **🏥 Hospital Appointment System** - *Dorset College*
+### **🏥 Hospital Appointment System** - *Dorset College, 2025*
 *Fullstack Web Application.*
 * **Features:** Patient authentication, appointment scheduling, Doctor appointments/medications management, and admin dashboard.
 * **Stack:** ASP.NET Core, C#, SQLite, HTML/CSS.
 
 
-### **🤖 OCR - Word Search Solver** - *EPITA*
+### **🤖 OCR - Word Search Solver** - *EPITA, 2024*
 *Optical Character Recognition engine built from scratch.*
 * **Features:** Simple Neural Network implementation for character recognition, image processing (grayscale/binarization) with SDL, and grid solving algorithm.
 * **Stack:** C, SDL Library, Neural Networks, Matrix Mathematics.
 
 
-### **🎮 EpiScape** - *EPITA*
+### **🎮 EpiScape** - *EPITA, 2024*
 *Immersive 3D Escape Game developed with Unity.*
 * **Features:** Multiplayer puzzle mechanics, 3D environment interaction, physics management, and team-based development workflow.
 * **Stack:** C#, Unity Engine, Blender.
