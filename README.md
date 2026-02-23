@@ -13,7 +13,7 @@ Hi there, I'm Clément 👋
 
 ## 🔭 I’m currently working on...
 **⚙️ C++ Workshop** (EPITA)
-> *Transitioning from low-level C to Object-Oriented C++.*
+*Transitioning from low-level C to Object-Oriented C++.*
 * **Features:** Advanced memory management (Pointers vs. References), Object-Oriented Programming fundamentals (Classes, Encapsulation), and C++ standard mechanics.
 * **Stack:** C++, Object-Oriented Programming (OOP).
 
