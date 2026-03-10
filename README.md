@@ -12,14 +12,20 @@ Hi there, I'm Clément 👋
 ---
 
 ## 🔭 I’m currently working on...
+### **🐅 Tiger Compiler** - *EPITA, 2026*
+*Building a complete compiler for the Tiger language from scratch.*
+* **Features:** Front-end development focusing on lexical and syntax analysis (Lexer/Parser), AST (Abstract Syntax Tree) generation, and extensive use of the **Visitor design pattern** for tree traversal.
+* **Stack:** Modern C++, Flex, GNU Bison, Compiler Design.
+
+---
+
+## 📂 Featured Projects
 ### **⚙️ C++ Workshop** - *EPITA, 2026*
 *Transitioning from low-level C to Object-Oriented C++.*
 * **Features:** Advanced memory management (Pointers vs. References), Object-Oriented Programming fundamentals (Classes, Encapsulation), and C++ standard mechanics.
 * **Stack:** C++, Object-Oriented Programming (OOP).
 
----
 
-## 📂 Featured Projects
 ### **🦖 Yakamon - API Backend** - *EPITA, 2026*
 *Backend implementation for a creature-collecting RPG (Pokémon-like).*
 * **Features:** RESTful API development adhering to OpenAPI/Swagger specs, strict Layered Architecture (Presentation, Business, Data), and game logic (Movement, Inventory, Evolution).
