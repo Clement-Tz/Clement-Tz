@@ -20,6 +20,12 @@ Hi there, I'm Clément 👋
 ---
 
 ## 📂 Featured Projects
+### **🐉 Libzork - Interactive Story Engine** - *EPITA, 2026*
+*C++ dynamic library for a branching story game engine.*
+* **Features:** Graph-based story representation via YAML parsing, complex state management (variables, conditions, undo/redo mechanisms), and a REPL "Smart Runner" featuring natural language processing (tokenization and synonyms matching).
+* **Stack:** Modern C++, CMake, yaml-cpp.
+
+
 ### **⚙️ C++ Workshop** - *EPITA, 2026*
 *Transitioning from low-level C to Object-Oriented C++.*
 * **Features:** Advanced memory management (Pointers vs. References), Object-Oriented Programming fundamentals (Classes, Encapsulation), and C++ standard mechanics.
