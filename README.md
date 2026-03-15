@@ -50,11 +50,12 @@ Hi there, I'm Clément 👋
 * **Stack:** SQL, PostgreSQL/MySQL.
 
 
-### **⚙️ PPEXs** - *EPITA, 2026*
+### **🛠️ PPEXs** - *EPITA, 2025*
 *Collection of three core UNIX utilities and daemons built from scratch in C.*
-* **HTTPd (Web Server):** HTTP/1.1 daemon using non-blocking I/O and `epoll`. Implements TCP/IPv4 sockets, vhost configuration, and graceful shutdowns via signals.
-* **Malloc (Memory Allocator):** Custom thread-safe `libc` allocator (`malloc`, `free`, `realloc`) relying on direct system calls (`mmap`).
-* **Minimake (Build System):** Clone of GNU Make parsing Makefiles, resolving dependencies, evaluating file timestamps, and managing child process execution.
+* **Projects:**
+  * **HTTPd (Web Server):** HTTP/1.1 daemon using non-blocking I/O and `epoll`. Implements TCP/IPv4 sockets, vhost configuration, and graceful shutdowns via signals.
+  * **Malloc (Memory Allocator):** Custom thread-safe `libc` allocator (`malloc`, `free`, `realloc`) relying on direct system calls (`mmap`).
+  * **Minimake (Build System):** Clone of GNU Make parsing Makefiles, resolving dependencies, evaluating file timestamps, and managing child process execution.
 * **Stack:** Advanced C, POSIX Sockets, Linux Syscalls, Pthreads, Process Management.
 
 
