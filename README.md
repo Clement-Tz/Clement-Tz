@@ -12,14 +12,20 @@ Hi there, I'm Clément 👋
 ---
 
 ## 🔭 I’m currently working on...
-### **🐅 Tiger Compiler** - *EPITA, 2026*
-*Building a complete compiler for the Tiger language from scratch.*
-* **Features:** Front-end development focusing on lexical and syntax analysis (Lexer/Parser), AST (Abstract Syntax Tree) generation, and extensive use of the **Visitor design pattern** for tree traversal.
-* **Stack:** Modern C++, Flex, GNU Bison, Compiler Design.
+### **⚡ JavaScript Workshop** - *EPITA, 2026*
+*Deep dive into modern JavaScript, asynchronous paradigms, and event-driven programming.*
+* **Features:** Mastering ES6+ syntax, advanced asynchronous flow control (Promises, Async/Await), DOM manipulation, and modular software architecture.
+* **Stack:** Modern JavaScript (ES6+), Node.js, npm, Vite.
 
 ---
 
 ## 📂 Featured Projects
+### **🐅 Tiger Compiler** - *EPITA, 2026*
+*Building a complete compiler for the Tiger language from a code base.*
+* **Features:** Front-end development focusing on lexical and syntax analysis (Lexer/Parser), AST (Abstract Syntax Tree) generation, and extensive use of the **Visitor design pattern** for tree traversal.
+* **Stack:** Modern C++, Flex, GNU Bison, Compiler Design.
+
+
 ### **⚙️ C++ Workshop** - *EPITA, 2026*
 *Transitioning from low-level C to Object-Oriented C++.*
 * **Features:** Advanced memory management (Pointers vs. References), Object-Oriented Programming fundamentals (Classes, Encapsulation), and C++ standard mechanics.
