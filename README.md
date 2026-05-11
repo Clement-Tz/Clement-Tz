@@ -13,9 +13,9 @@ Hi there, I'm Clément 👋
 
 ## 🔭 I’m currently working on...
 ### **⚡ JavaScript Workshop** - *EPITA, 2026*
-*Deep dive into modern JavaScript, asynchronous paradigms, and event-driven programming.*
-* **Features:** Mastering ES6+ syntax, advanced asynchronous flow control (Promises, Async/Await), DOM manipulation, and modular software architecture.
-* **Stack:** Modern JavaScript (ES6+), Node.js, npm, Vite.
+*Deep dive into modern JavaScript, from foundational patterns to advanced asynchronous and secure architectures.*
+* **Features:** Mastering ES6+ syntax and OOP, advanced asynchronous flow (Promises, Async/Await), DOM manipulation, and API integration.
+* **Stack:** Modern JavaScript (ES6+), Node.js, Jest, Yarn.
 
 ---
 
