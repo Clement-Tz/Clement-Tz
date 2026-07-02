@@ -12,19 +12,20 @@ Hi there, I'm Clément 👋
 ---
 
 ## 🔭 I’m currently working on...
+### 🛠️ **PING - Facility Management Platform** - *EPITA, 2026*
+*Design and functional architecture of a centralized ticketing platform for campus maintenance and repairs.*
+* **Features:** Collaboration with the Product Owner to define requirements. Implementation of the Frontend to deliver intuitive user journeys (Students, Technicians, Administrators) based on approved UI/UX mockups, coupled with Backend development to manage ticket lifecycles, role-based access control, and automated routing.
+* **Stack:** Front-End Development (React, TypeScript), Back-End development (Java 21, Quarkus), Agile Methodology (PO Collaboration).
+
+---
+
+## 📂 Featured Projects
 ### **❄️ ERO1 - Snow Removal Optimization** - *EPITA, 2026*
 *Operations Research project aimed at solving complex routing problems to optimize snow plowing strategies in Montreal.*
 * **Features:** Geographic data extraction and parsing via OpenStreetMap to build and traverse complex network graphs. Algorithmic implementation of the Chinese Postman Problem to determine the most efficient routing paths. Collaborative development in a team of 5.
 * **Stack:** Python, OpenStreetMap, Graph Theory, Algorithmic Optimization.
 
-### 🛠️ **PING - Facility Management Platform** - *EPITA, 2026*
-*Design and functional architecture of a centralized reporting platform for campus maintenance and repairs.*
-* **Features:** Collaboration with the Product Owner to define requirements. Implementation of the Frontend to deliver intuitive user journeys (Students, Technicians, Administrators) based on approved UI/UX mockups, coupled with Backend development to manage ticket lifecycles, role-based access control, and automated routing.
-* **Stack:** Full-Stack Development, Agile Methodology (PO Collaboration), UI/UX Prototyping.
 
----
-
-## 📂 Featured Projects
 ### **⚡ JavaScript Workshop** - *EPITA, 2026*
 *Deep dive into modern JavaScript, from foundational patterns to advanced asynchronous and secure architectures.*
 * **Features:** Mastering ES6+ syntax and OOP, advanced asynchronous flow (Promises, Async/Await), DOM manipulation, and API integration.
